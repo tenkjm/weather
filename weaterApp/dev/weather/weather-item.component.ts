@@ -13,7 +13,8 @@ import {WeatherItem} from "./weather-item";
             <span class="temperature">{{ weatherItem.temperature }}°C</span>
         </div>
     </article>`,
-    styleUrls:['src/css/weather-item.css']
+    styleUrls:['src/css/weather-item.css'],
+   // inputs: ['weatherItem: item ']
 
 })
 
